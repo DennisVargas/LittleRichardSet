@@ -1,3 +1,7 @@
+---
+layout: default
+title: Ready Teddy
+---
 Ready Teddy by Little Richard.
 
 **INTRO:**
