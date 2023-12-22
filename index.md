@@ -1,8 +1,7 @@
-<!doctype html>
 ---
 layout: default
 title: home
 ---
 
-<h3>Set List</h3>
+### Set List
 
