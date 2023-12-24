@@ -8,7 +8,7 @@ C   N.C.
 
 **VERSE1:**
 <pre>
- N.C.        C
+N.C.        C
 Boo hoo hoo hoo
                 F
 I'm cryin' over you
@@ -18,7 +18,8 @@ I loved you so
 I never let you go
 </pre>
 
-VERSE2:
+**VERSE2:**
+<pre>
 N.C.         C
 Oh baby baby please
                      F
@@ -26,9 +27,11 @@ Set my poor heart at ease
             G
 I love you so
                    C   N.C.
-I'll never let you go
- 
-VERSE3:
+I'll never let you go 
+</pre>
+
+**VERSE3:**
+<pre>
 N.C.        C
 Boo hoo hoo hoo
                 F
@@ -36,13 +39,16 @@ I'm cryin' over you
             G
 I love you so
                    C    N.C.
-I'll never let you go
- 
-SOLO:
+I'll never let you go 
+</pre>
+
+**SOLO:**
+<pre>
 N.C.   C    F    G     C
 N.C.   C    F    G     C    N.C.
- 
-VERSE1:
+</pre>
+**VERSE1:**
+<pre>
 N.C.        C
 Boo hoo hoo hoo
                 F
@@ -51,8 +57,9 @@ I'm cryin' over you
 I loved you so
                 C    N.C.
 I never let you go
- 
-VERSE2:
+</pre>
+**VERSE2:**
+<pre>
 N.C.         C
 Oh baby baby please
                      F
@@ -61,6 +68,8 @@ Set my poor heart at ease
 I love you so
                    C   N.C.
 I'll never let you go
- 
-OUTRO SOLO:
+</pre>
+**OUTRO SOLO:**
+<pre>
 N.C.   C   F   G   C
+</pre>
