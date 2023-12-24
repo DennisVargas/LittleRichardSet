@@ -2,52 +2,66 @@
 layout: song
 title: Lucille
 ---
-(Later covered by the Everly Brothers in the key of G)
+## {{page.title}}
  
-INTRO:
-C / / / 2 / / / 3 / / / 4 / / /
-F / / / 2 / / / C / / / 2 / / /
-G / / / F / / / C / / / G7 / /
- 
-VERSE1:
-  C
+**INTRO:**
+<pre>
+G / / / 2 / / / 3 / / / 4 / / /
+C / / / 2 / / / D / / / 2 / / /
+D / / / C / / / G / / / D7 / /
+</pre>
+**VERSE 1:**
+<pre>
+  G
 Lucille, you won't do your sister's will
-F                                 C
+C                                 G
 Lucille, you won't do your sister's will
 G                        F          C     G7
 You ran off and married, but I love you still 
-
-VERSE2:
+</pre>
+**VERSE 2:**
+<pre>
 Lucille, please come back where you belong
 Lucille, please come back where you belong
 I've been good to you, baby; please don't leave me alone
- 
-BRIDGE:
-  C
-I woke up this mornin', Lucille was not in sight  C7
+</pre>
+
+**BRIDGE:**
+<pre>
+  G
+I woke up this mornin', Lucille was not in sight  
+  G7
 I asked her friends about her but all their lips were tight 
+</pre>
 
-VERSE2:
+**VERSE 2:**
+<pre>
 Lucille, please come back where you belong
 Lucille, please come back where you belong
 I've been good to you, baby; please don't leave me alone
- 
-SOLO:
-C F C G F C G7
- 
-BRIDGE:
-  C
+</pre>
+
+**SOLO:**
+<pre>
+G C G D C G D7
+</pre>
+**BRIDGE:**
+<pre>
+  G
 I woke up this mornin', Lucille was not in sight 
-C7
+G7
 I asked her friends about her but all their lips were tight 
-
-VERSE2:
+</pre>
+**VERSE 2:**
+<pre>
 Lucille, please come back where you belong
 Lucille, please come back where you belong
 I've been good to you, baby; please don't leave me alone
- 
-VERSE3:
+</pre>
+**VERSE 3:**
+<pre>
 Lucille, baby, satisfy my heart
 Lucille, baby, satisfy my heart
 The place I went to, baby
 It gave us such a wonderful start
+</pre>
