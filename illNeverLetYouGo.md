@@ -9,7 +9,7 @@ title: I'll Never Let You Go (Boo Hoo Hoo)
 C   N.C. 
 </pre>
 
-**VERSE1:**
+**VERSE 1:**
 <pre>
 N.C.        C
 Boo hoo hoo hoo
@@ -21,7 +21,7 @@ I loved you so
 I never let you go
 </pre>
 
-**VERSE2:**
+**VERSE 2:**
 <pre>
 N.C.         C
 Oh baby baby please
@@ -33,7 +33,7 @@ I love you so
 I'll never let you go 
 </pre>
 
-**VERSE3:**
+**VERSE 3:**
 <pre>
 N.C.        C
 Boo hoo hoo hoo
@@ -50,7 +50,7 @@ I'll never let you go
 N.C.   C    F    G     C
 N.C.   C    F    G     C    N.C.
 </pre>
-**VERSE1:**
+**VERSE 1:**
 <pre>
 N.C.        C
 Boo hoo hoo hoo
@@ -61,7 +61,7 @@ I loved you so
                 C    N.C.
 I never let you go
 </pre>
-**VERSE2:**
+**VERSE 2:**
 <pre>
 N.C.         C
 Oh baby baby please
