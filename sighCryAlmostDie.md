@@ -1,3 +1,7 @@
+---
+layout: song
+title: Sigh Cry Almost Die
+---
 C          C7
 Sigh, cry, almost die
  

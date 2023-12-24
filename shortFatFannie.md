@@ -1,9 +1,16 @@
-Short Fat Fannie:Larry Williams.
-#2 on R&B charts and #5 on Rock charts in 1957.
- 
-INTRO: (Singer whistling) C F C7
- 
-VERSE1:
+---
+layout: song
+title: Short Fat Fannie
+---
+
+## Short Fat Fannie:Larry Williams.
+
+**INTRO:** 
+<pre>
+(Singer whistling) C F C7
+</pre>
+**VERSE1:**
+<pre>
 F
 I was slippin' and a slidin' with Long Tall Sally,
 C
@@ -12,7 +19,7 @@ F
 Don't wanna Rip It Up, don't wanna dance with Annie,
         D                     G7
 I got a brand new lover named Short Fat Fannie. 
-
+</pre>
 VERSE2:
 C
 One day while I was busy in the Heartbreak Hotel.

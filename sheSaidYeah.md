@@ -1,3 +1,7 @@
+---
+layout: song
+title: She Said Yeah
+---
 She Said Yeah by Larry Williams.
  
 VERSE1:

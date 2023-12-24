@@ -1,23 +1,22 @@
 ---
-layout: default
+layout: song
 title: Ready Teddy
 ---
-Ready Teddy by Little Richard\
-\
+
+## Ready Teddy by Little Richard
+
 **INTRO:**
 <pre>
 F                   
-Ready, set, go, man, go, I got a girl that 
-Dm7
-I love so.
+Ready, set, go, man, go, I got a girl that I love so.
 </pre>
 
 **CHORUS:**
 <pre>
     Bb                             F
-I'm ready, ready, ready teddy, I'm ready, ready, <br>
+I'm ready, ready, ready teddy, I'm ready, ready,
                  C      Bb 
-ready teddy, I'm ready, ready, ready teddy, I'm <br>
+ready teddy, I'm ready, ready, ready teddy, I'm
 F
 ready-ready-ready to rock 'n' roll.
 </pre>
@@ -46,7 +45,7 @@ headed for the gym to the sock-hop ball.
 F
 The joint is really jumpin', the cats are going wild.
                              F7
-The music really sends me, I dig that crazy style.<br>
+The music really sends me, I dig that crazy style.
 </pre>
 **CHORUS:**
 <pre>

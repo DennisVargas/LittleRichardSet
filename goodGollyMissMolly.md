@@ -1,3 +1,7 @@
+---
+layout: song
+title: Good Golly Miss Molly
+---
 INTRO:
 G  /  /  /
 C  /  G  /

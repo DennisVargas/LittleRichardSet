@@ -1,3 +1,7 @@
+---
+layout: song
+title: Slippin and Slidin
+---
 Slippin' And Slidin' by Little Richard.
 #33 in USA and #2 on R&B charts in 1956.
 Also a big hit in UK.

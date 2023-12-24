@@ -1,3 +1,7 @@
+---
+layout: song
+title: Lucille
+---
 (Later covered by the Everly Brothers in the key of G)
  
 INTRO:

@@ -7,12 +7,11 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <title> {{ site.title }} </title>
-{% seo %}
+    {% seo %}
     {% include head-custom.html %}
   </head>
 
   <body>
-
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
@@ -29,6 +28,11 @@
               <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
             </section>
           {% endif %}
+          <div style="margin-top:10px; padding-right:10px">
+            <a href="index">Home</a>
+            <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <a href="">Youtube Playlist</a>
+          </div>
         </header>
     </div>
 
@@ -36,6 +40,9 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
+        <div style="padding-top:10px">
+          <a href="index">Home</a>
+        </div>
       </section>
     </div>
 

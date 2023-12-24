@@ -1,3 +1,7 @@
+---
+layout: song
+title: Jenny Jenny
+---
 Jenny Jenny by Little Richard.
  
 VERSE1:

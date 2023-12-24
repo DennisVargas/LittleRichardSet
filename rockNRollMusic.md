@@ -1,3 +1,7 @@
+---
+layout: song
+title: Rock and Roll Music
+---
 Rock And Roll Music
 written and performed by Chuck Berry
  

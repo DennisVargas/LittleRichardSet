@@ -1,3 +1,7 @@
+---
+layout: song
+title: Shout
+---
 SHOUT - Isley Bros.
 
 D, Bm, and G7.

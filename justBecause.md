@@ -1,6 +1,11 @@
-Just Because by Lloyd Price:
+---
+layout: song
+title: Just Because
+---
+## Just Because by Lloyd Price
 
-VERSE1:
+**VERSE1:**
+<pre>
 E                                  B
 Just because you left and said goodbye,
                                  E
@@ -9,9 +14,10 @@ E                               B
 Even if my heart should tell me so,
                                 E
 darling, I would rather let you go. 
+</pre>
 
-
-VERSE2:
+**VERSE2:**
+<pre>
 E                                     B
 Just because you think that you're so smart,
                                   E
@@ -20,14 +26,17 @@ E                                 B
 Before I let this thing happen to me,
                                  E
 darling, I would rather swim the sea. 
-
-CHORUS:
+</pre>
+**CHORUS:**
+<pre>
 E7         A
 I know you think you're smart,
      G#                            B
 just going around breaking lover's hearts. 
+</pre>
 
-VERSE3:
+**VERSE3:**
+<pre>
 E                                 B
 Just because I want someone who's kind,
                                  E
@@ -36,14 +45,16 @@ E                             B
 But maybe I am asking far too much,
                                     E
 darling, please don't ever break my heart. 
-
-CHORUS:
+</pre>
+**CHORUS:**
+<pre>
 E7         A
 I know you think you're smart,
-     G#                            B     B7// B
+     G#                            B     B7
 just going around breaking lover's hearts. 
-
-VERSE4:
+</pre>
+**VERSE4:**
+<pre>
 E                                 B
 Just because I want someone who's kind,
                                  E
@@ -52,3 +63,4 @@ E                             B
 But maybe I am asking far too much,
                                     E
 darling, please don't ever break my heart.(Fade.) 
+</pre>
