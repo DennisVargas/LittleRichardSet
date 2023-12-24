@@ -1,14 +1,14 @@
-I'LL NEVER LET YOU GO (BOO HOO HOO HOO)
-As recorded by Little Richard
-(From the 1958 Album LITTLE RICHARD)
- 
-? Capo 1st fret ?
- 
-INTRO
-C   N.C.
- 
-VERSE1:
-N.C.        C
+## I'LL NEVER LET YOU GO (BOO HOO HOO HOO) by Little Richard
+<\br> 
+
+**INTRO**
+<pre>
+C   N.C. 
+</pre>
+
+**VERSE1:**
+<pre>
+ N.C.        C
 Boo hoo hoo hoo
                 F
 I'm cryin' over you
@@ -16,7 +16,8 @@ I'm cryin' over you
 I loved you so
                 C    N.C.
 I never let you go
- 
+</pre>
+
 VERSE2:
 N.C.         C
 Oh baby baby please
