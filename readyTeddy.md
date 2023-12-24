@@ -2,9 +2,10 @@
 layout: default
 title: Ready Teddy
 ---
-Ready Teddy by Little Richard
+Ready Teddy by Little Richard\
+\
+**INTRO:**\
 <pre>
-**INTRO:**
 F                   
 Ready, set, go, man, go, I got a girl that 
 Dm7
