@@ -20,7 +20,7 @@ ready teddy, I'm ready, ready, ready teddy, I'm
 F
 ready-ready-ready to rock 'n' roll.
 </pre>
-**VERSE1:**
+**VERSE 1:**
 <pre>
 F
 Going to the corner, pick up my sweetie pie..she's 
@@ -36,7 +36,7 @@ ready teddy, I'm ready, ready, ready teddy, I'm
 F
 ready-ready-ready to rock 'n' roll.
 </pre>
-**VERSE2:**
+**VERSE 2:**
 <pre>
 F
 All the flat-top cats and the dungaree dolls are
@@ -56,7 +56,7 @@ ready teddy, I'm ready, ready, ready teddy, I'm
 F
 ready-ready-ready to rock 'n' roll.
 </pre>
-**VERSE3:**
+**VERSE 3:**
 <pre>
 F
 Going to the corner, pick up my sweetie pie..she's 
@@ -72,7 +72,7 @@ ready teddy, I'm ready, ready, ready teddy, I'm
 F
 ready-ready-ready to rock 'n' roll.
 </pre>
-**VERSE4:**
+**VERSE 4:**
 <pre>
 F
 All the flat-top cats and the dungaree dolls are 
@@ -92,7 +92,7 @@ ready teddy, I'm ready, ready, ready teddy, I'm
 F<br>
 ready-ready-ready to rock 'n' roll.
 </pre>
-**VERSE5:**
+**VERSE 5:**
 <pre>
 F
 Gonna kick off my shoes, roll up my faded jeans..
