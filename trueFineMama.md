@@ -2,8 +2,9 @@
 layout: song
 title: True Fine Mama
 ---
-## True Fine Mama by Little Richard.
-
+## True Fine Mama
+*in style of Little Richard*\\
+\\
 **INTRO:**
 <pre>
 G C G D C G D
