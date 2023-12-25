@@ -4,6 +4,7 @@ title: Baby Baby
 ---
 ## Baby Baby by Larry Williams
 ##### *(bg &nbsp; = &nbsp; background singer line)*
+\\
 **VERSE 1:**
 <pre>
 
@@ -15,7 +16,7 @@ When it night and time to go to sleep
 
 Whose the one who calls my name so sweet
 </pre>
-
+\\
 **CHORUS:**
 <pre>
 
@@ -31,7 +32,7 @@ No, no, no
 
 No, no, baby baby all the time
 </pre>
-
+\\
 **VERSE 1:**
 <pre>
 
@@ -43,7 +44,7 @@ But when I'm sad and things go wrong
 
 Whose the one who loves me all night long
 </pre>
-
+\\
 **CHORUS:**
 <pre>
 
@@ -59,7 +60,7 @@ No, no, no
 
 No, no, it's baby all the time
 </pre>
-
+\\
 **SOLO:**
 <pre>
 
@@ -69,7 +70,7 @@ Whoop Whoop
 
 Whoop Whoop
 </pre>
-
+\\
 **VERSE 2:**
 <pre>
 
@@ -81,7 +82,7 @@ Short Fat Fannie would never love me like this
 
 I wait every morning just to receive my baby's kiss
 </pre>
-
+\\
 **CHORUS:**
 <pre>
 
@@ -99,6 +100,7 @@ No, no,
 
 Baby all the time
 </pre>
+\\
 **OUTRO:**
 <pre>
 

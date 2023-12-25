@@ -2,13 +2,13 @@
 layout: song
 title: I'll Never Let You Go (Boo Hoo Hoo)
 ---
-## I'll Never Let You Go (Boo Hoo Hoo) by Little Richard
-
+## {{page.title}} by Little Richard
+\\
 **INTRO**
 <pre>
 C   N.C. 
 </pre>
-
+\\
 **VERSE 1:**
 <pre>
 N.C.        C
@@ -20,7 +20,7 @@ I loved you so
                 C    N.C.
 I never let you go
 </pre>
-
+\\
 **VERSE 2:**
 <pre>
 N.C.         C
@@ -32,7 +32,7 @@ I love you so
                    C   N.C.
 I'll never let you go 
 </pre>
-
+\\
 **VERSE 3:**
 <pre>
 N.C.        C
@@ -44,12 +44,13 @@ I love you so
                    C    N.C.
 I'll never let you go 
 </pre>
-
+\\
 **SOLO:**
 <pre>
 N.C.   C    F    G     C
 N.C.   C    F    G     C    N.C.
 </pre>
+\\
 **VERSE 1:**
 <pre>
 N.C.        C
@@ -61,6 +62,7 @@ I loved you so
                 C    N.C.
 I never let you go
 </pre>
+\\
 **VERSE 2:**
 <pre>
 N.C.         C
@@ -72,6 +74,7 @@ I love you so
                    C   N.C.
 I'll never let you go
 </pre>
+\\
 **OUTRO SOLO:**
 <pre>
 N.C.   C   F   G   C

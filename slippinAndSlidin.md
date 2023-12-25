@@ -2,11 +2,11 @@
 layout: song
 title: Slippin and Slidin
 ---
-Slippin' And Slidin' by Little Richard.
-#33 in USA and #2 on R&B charts in 1956.
-Also a big hit in UK.
+
+## {{page.title}} by Little Richard.
  
-CHORUS:
+**CHORUS:**
+<pre>
 E
 Slippin' and a-slidin', peepin' and a-hidin,'
                       E7
@@ -19,8 +19,9 @@ B                     A
 I've been told, baby, you've been bold,
          E                B    B7
 And I'll be your fool, no more. 
-
-VERSE1:
+</pre>
+**VERSE 1:**
+<pre>
 E
 Oh, big conniver, nothin' but a jiver,
                             E7
@@ -33,8 +34,10 @@ B                       A
 Slippin' and a-slidin', peepin' and a-hidin,'
          E               B    B7
 And I'll be your fool no more. 
+</pre>
 
-VERSE2:
+**VERSE 2:**
+<pre>
 E
 Oh, Melinda, she's a solid sender,
                               E7
@@ -47,4 +50,5 @@ B                     A
 Slippin' and slidin', peepin' and hidin,'
          E               B    B7
 And I'll be your fool no more. 
-CHORUS:(x2)
+</pre>
+**CHORUS:(x2)**

@@ -1,0 +1,37 @@
+---
+---
+@import "{{ site.theme }}";
+body {
+  color: rgb(197, 192, 185);
+}
+
+h2{
+  color: rgb(211, 207, 201);
+}
+
+a{
+  color: rgb(83, 174, 243);
+}
+
+pre{
+  color: rgb(211, 207, 201);
+  background: rgb(24, 26, 27);
+}
+
+#main_content_wrap {
+  background: rgb(31, 34, 35);
+  border-top: rgb(134, 125, 110);
+}
+
+#header_wrap{
+  color: rgb(232, 230, 227);
+  background-image: linear-gradient (to top, rgb(41, 45, 47), rgb(25, 27, 28));
+}
+
+#project_title{
+  color:rgb(232, 230, 227);
+}
+
+#project_tagline{
+  color: rgb(232, 230, 227);
+}
