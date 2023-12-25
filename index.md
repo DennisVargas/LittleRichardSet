@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Little Richard Rock Set
 ---
 
 # Active Set
