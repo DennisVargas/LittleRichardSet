@@ -3,7 +3,8 @@ layout: song
 title: Ready Teddy
 ---
 
-## {{page.title}} by Little Richard
+## {{page.title}}
+*in style of Little Richard*\\
 \\
 **INTRO:**
 <pre>
