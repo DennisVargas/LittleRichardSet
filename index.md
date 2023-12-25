@@ -32,7 +32,7 @@ title: home
 **Good Golly Miss Molly** &nbsp;-&nbsp; [Fake Sheet](goodGollyMissMolly) &nbsp;/&nbsp; [Audio](https://youtu.be/QTDhQ2QECqE?si=9v-DElGZeC9B2vFu){:target="_blank" rel="noopener noreferrer"}
 
 ## Future Songs 
-Mercy Mercy
-It's not Easy
+Mercy Mercy\\
+It's not Easy\\
 Wild Child
 
