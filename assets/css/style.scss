@@ -1,6 +1,11 @@
 ---
 ---
-@import "{{ site.theme }}";
+
+html{
+  @import "{{ site.theme }}";
+}
+
+
 body {
   color: rgb(197, 192, 185);
 }

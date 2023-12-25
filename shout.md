@@ -2,11 +2,13 @@
 layout: song
 title: Shout
 ---
-SHOUT - Isley Bros.
-
+## {{page.title}}
+*in style of Isley Bros*
+<br><br>
+<pre>
 D, Bm, and G7.
- 
- 
+
+NC
 We-eee-eeel....
                               F
 You know you make me wanna (Shout!)
@@ -52,7 +54,7 @@ F
 (Say) come on now 
 Dm
 (Say) ~~WAIT A BEAT~~
- 
+
         F                    
 I still remember
 (Shooby-doo-wop-do-wop-wop-wop-wop)
@@ -72,8 +74,6 @@ Up enough to know, yeah yeah
             F                         Dm
 You wanna leave me, you wanna, let me go
 (Shooby-doo-wop-do-wop)
- 
-~~SLOWER SHUFFLE FEEL~~
 
    F    Bb7    F
 I want you to know
@@ -93,8 +93,6 @@ I said I want you to know-ho-ho-hey!
 I said I want you to know right now, hey! hey!
               Bb7
 You know you make me wanna
- 
-~~ORIGINAL TEMPO AND FEEL~~
  
 F
 (Shout-wooo) hey-yeah
@@ -126,14 +124,7 @@ Dm
 (Shout) all-alright (aah)
 F -STOP-
 (Shout)
- 
-~~FOR THIS NEXT PART I DO A TREMELO-LIKE STRUMMING VERY LIGHTLY WITH MY
-THUMB OR THE SIDE OF MY PICK SKIMMING THE TOP OF THE STRINGS. MY BEST TO
-SIMULATE THE SUSTAIN FROM THE ORGAN AT THIS POINT OF THE SONG ON THE
-ACOUSTIC GUITAR.
- 
-BUT DO WHATEVER THE HELL YOU WANT. :)~~
- 
+
                    F
 Now wai-A-ait A minute!
 I feel aaaaaaallllllright!
@@ -165,9 +156,6 @@ Dm
 F
 (Shout) a little bit louder now (?x)
  
-~~OKAY I'M FINISHED WRITING OUT THE CHORDS. YOU SHOULD GET THE
-IDEA ABOUT NOW. ENJOY!~~
- 
 (Shout)
 Hey-Hey-A-Hey
 (Hey-Hey-A-Hey)
@@ -194,3 +182,4 @@ Shout, shout, shout, shout (oh-whoa-yeah)
 Shout, shout, shout, shout (oh yeah)
 Shout, shout, shout, shout
 Everybody shout now (ooo)
+</pre>

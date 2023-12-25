@@ -2,25 +2,18 @@
 layout: song
 title: Rock and Roll Music
 ---
-Rock And Roll Music
-written and performed by Chuck Berry
- 
-Capo 1 (key of Bb)
- 
-For the intro, strum A7 4 times on beats "& 4 & 1"
-Mute after the 4th strum and sing the 1st line beginning on the "&" after beat 1.
-& 4 & 1 &    2   &  3    &    4  &
-        Just let me hear some of that
- 
-For the outro, strum D6 3 times using a "cha cha cha" rhythm.
- 
-INTRO:
-A7
- 
-N.C.
-Just let me hear some of that
- 
-CHORUS:
+# {{site.title}}
+*in the style of Chuck Berry*\\
+\\
+**INTRO:**
+<pre>
+
+A7    N.C.
+------Just let me hear some of that
+</pre>
+\\
+**CHORUS:**
+<pre>
 D
 Rock and roll music any old way you choose it
            G
@@ -33,8 +26,10 @@ It's gotta be rock and roll music
 If you wanna dance with me
 A7                      D
 If you wanna dance with me
- 
-VERSE1:
+</pre>
+\\
+**VERSE 1:**
+<pre>
 N.C.                   A7
 I have no kick against modern jazz
                            D
@@ -45,8 +40,10 @@ And change the beauty of the melody
 Until it sounds just like a symphony
 N.C.
 That's why I go for that
- 
-CHORUS:
+</pre>
+\\
+**CHORUS:**
+<pre>
 D
 Rock and roll music any old way you choose it
            G
@@ -59,8 +56,10 @@ Gotta be rock roll music
 If you wanna dance with me
 A7                      D
 If you wanna dance with me
- 
-VERSE2:
+</pre>
+\\
+**VERSE 2:**
+<pre>
 N.C.                     A7
 I took my loved one over 'cross the tracks
                            D
@@ -71,8 +70,10 @@ I must admit they had a rockin' band
 Man, they were blowin' like a hurrican'
 N.C.
 That's why I go for that
- 
-CHORUS:
+</pre>
+\\
+**CHORUS:**
+<pre>
 D
 Rock and roll music any old way you choose it
            G
@@ -85,8 +86,10 @@ Gotta be rock roll music
 If you wanna dance with me
 A7                      D
 If you wanna dance with me
- 
-VERSE3:
+</pre>
+\\
+**VERSE 3:**
+<pre>
 N.C.                       A7
 Way down south they gave a jubilee
                                D
@@ -97,8 +100,10 @@ They're drinkin' home brew from a wooden cup
 The folks dancin' got all shook up
 N.C.
 And started playin' that
- 
-CHORUS:
+</pre>
+\\
+**CHORUS:**
+<pre>
 D
 Rock and roll music any old way you choose it
            G
@@ -111,8 +116,10 @@ Gotta be rock roll music
 If you wanna dance with me
 A7                      D
 If you wanna dance with me
- 
-VERSE4:
+</pre>
+\\
+**VERSE 4:**
+<pre>
 N.C.                          A7
 Don't care to hear 'em play a tango
                          D
@@ -123,8 +130,10 @@ It's way too early for the congo
 So keep a-rockin' that piano
 N.C.
 So I can hear some of that
- 
-CHORUS:
+</pre>
+\\
+**CHORUS:**
+<pre>
 D
 Rock and roll music any old way you choose it
            G
@@ -137,6 +146,9 @@ Gotta be rock roll music
 If you wanna dance with me
 A7                      D
 If you wanna dance with me
- 
-OUTRO:
+</pre>
+\\
+**OUTRO:**
+<pre>
 D6
+</pre>
